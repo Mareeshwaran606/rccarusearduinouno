@@ -1,0 +1,9 @@
+1) Arduino Uno (or any compatible board)----------> 1
+2) Bluetooth module (HC-05/HC-06)-----------------> 1
+3) Motor driver (L298N)---------------------------> 1
+4) TT Gear motors and wheels----------------------> 4
+5) Wood chassis ----------------------------------> 1
+6) Li - Iron batteries----------------------------> 3.7v battery 3
+7) Jumper wires
+8) Nylon Hex Standoffs Male- Female and Bolts
+9) Smartphone with a Bluetooth control app
